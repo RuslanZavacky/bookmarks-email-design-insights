@@ -2,6 +2,7 @@ Email Design Insights
 =====================
 
 http://www.leemunroe.com/email-design-workflow/  
+http://www.benjystanton.co.uk/blog/making-responsive-html-emails/
 
 
 Email templates
