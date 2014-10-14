@@ -17,6 +17,7 @@ Other
 
 http://www.emailonacid.com/blog/details/C13/emailology_fitting_more_above_the_fold  
 http://webdesign.tutsplus.com/articles/quick-tip-remember-to-style-your-alt-text--webdesign-12928  
+http://mailchimp.com/resources/guides/spam-lawsuits/html/
 
 
 Statistics & Support
