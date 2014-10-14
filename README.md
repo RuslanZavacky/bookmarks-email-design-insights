@@ -12,8 +12,15 @@ https://github.com/leemunroe/html-email-template
 https://github.com/leemunroe/grunt-email-design
 
 
-ALT Text
+Other
 ---------------------
 
 http://www.emailonacid.com/blog/details/C13/emailology_fitting_more_above_the_fold  
 http://webdesign.tutsplus.com/articles/quick-tip-remember-to-style-your-alt-text--webdesign-12928  
+
+
+Statistics & Support
+---------------------
+
+https://www.campaignmonitor.com/css/
+http://emailclientmarketshare.com/
